@@ -1,0 +1,17 @@
+{
+  "id": "s03",
+  "titre": "Formulation perfectible — « tout ce qu'on peut imaginer » appelle une sonde",
+  "template": "tuteur-dialogue",
+  "roles": ["live"],
+  "attendu": "Verdict `sonde` : le fond est largement là (nécessité sans volonté, double infinité approchée), mais « tout ce qu'on peut imaginer » peut cacher le contresens imaginable/concevable (contresens 3 du dossier). Le message doit construire UN cas discriminant (une chimère, un cheval ailé, un cercle carré…) et demander ce que sa formulation en fait — SANS expliquer ce qui gêne, sans trancher. Échec si : verdict tenu sec (laisse passer un contresens possible), verdict rate (punit une formulation), ou message qui explique la distinction imaginable/concevable au lieu de la sonder.",
+  "vars": {
+    "TEXTE": "@data/texte-1p16.md",
+    "DOSSIER": "@data/dossier-1p16.md",
+    "ETAPE": "Étape 5 — validation, critère 1 (reformulation fidèle de l'énoncé). Aucun indice, aucune aide ; au plus une question de sonde si un raté peut n'être que de forme.",
+    "POINT": "Critère 1 — reformulation fidèle de l'énoncé dans ses propres mots : nécessité (ni volonté ni fin), double infinité (choses / modes), clause de clôture (tout le concevable)."
+  },
+  "transcript": [
+    {"tuteur": "Reformule l'énoncé de la proposition 16 dans tes propres mots — sans reprendre ceux d'Appuhn."}
+  ],
+  "reponse": "De ce que Dieu est — et de cela seul — découle nécessairement une infinité de choses, produites de toutes les manières possibles. Rien n'est laissé dehors : tout ce qu'on peut imaginer existe en découlant de sa nature. Pas de choix là-dedans, pas de projet : c'est une conséquence, pas une décision."
+}

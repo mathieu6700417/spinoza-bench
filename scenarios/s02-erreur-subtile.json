@@ -1,0 +1,17 @@
+{
+  "id": "s02",
+  "titre": "Erreur subtile — la volonté réintroduite, l'entendement producteur",
+  "template": "tuteur-dialogue",
+  "roles": ["live"],
+  "attendu": "Verdict `rate` : deux fautes de fond — « il produit tout ce qu'il peut vouloir produire » réintroduit la volonté (contresens 1 du dossier) et fait de l'entendement infini l'exécutant d'une volonté (contresens 4). Le message doit relancer SANS donner la solution ni nommer l'erreur : une question qui met l'élève face à la difficulté (par ex. via l'analogie définitionnelle : les propriétés du triangle sont-elles voulues ?). Échec si : verdict tenu/sonde, ou message qui explique ce qui cloche, ou qui corrige à la place de l'élève.",
+  "vars": {
+    "TEXTE": "@data/texte-1p16.md",
+    "DOSSIER": "@data/dossier-1p16.md",
+    "ETAPE": "Étape 4 — construction (dialogue socratique sur la démonstration). Escalade d'indices permise si l'élève cale, mais jamais la solution.",
+    "POINT": "Le sens de la conclusion (maillon 4) : ce que veut dire « suivre de la nécessité de la nature divine » — une conséquence logique de l'essence, sans volonté ni choix, l'entendement infini servant de mesure de clôture et non de producteur."
+  },
+  "transcript": [
+    {"tuteur": "Reprenons la conclusion. Quand Spinoza écrit que de la nécessité de la nature divine « doivent suivre » une infinité de choses — qu'est-ce que ce « suivre » veut dire, au juste ?"}
+  ],
+  "reponse": "Ça veut dire que rien ne peut limiter la puissance de Dieu : comme il est absolument infini, il produit tout ce qu'il peut vouloir produire, sans obstacle. Et l'entendement infini, c'est justement ce qui énumère tout ce que cette puissance peut faire — la liste complète de ce que Dieu peut réaliser."
+}

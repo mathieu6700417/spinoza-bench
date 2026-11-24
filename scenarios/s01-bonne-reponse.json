@@ -1,0 +1,17 @@
+{
+  "id": "s01",
+  "titre": "Bonne réponse en construction — juger tenu, puis UNE contre-attaque",
+  "template": "tuteur-dialogue",
+  "roles": ["live"],
+  "attendu": "Verdict `tenu` avec confiance haute (la réponse est exacte et articulée : c'est le maillon 3 du dossier, correctement produit). Le point n'a PAS encore résisté à une contre-attaque : le message doit porter UNE contre-attaque sérieuse (objection, cas limite, conséquence), une seule question, sans valider explicitement ni expliquer. Échec si : verdict rate/sonde, ou message qui banque sans contre-attaque, ou deux questions, ou explication donnée.",
+  "vars": {
+    "TEXTE": "@data/texte-1p16.md",
+    "DOSSIER": "@data/dossier-1p16.md",
+    "ETAPE": "Étape 4 — construction (dialogue socratique sur la démonstration). Escalade d'indices permise si l'élève cale ; une bonne réponse appelle une contre-attaque avant d'être banquée.",
+    "POINT": "Le maillon 3 de la démonstration : pourquoi l'infinité d'attributs ne suffit pas — il faut que chaque attribut exprime une essence infinie en son genre pour fonder la double infinité de la conclusion. Ce point vient d'être demandé à l'élève, il n'a encore subi aucune contre-attaque."
+  },
+  "transcript": [
+    {"tuteur": "La définition 6 — celle de Dieu — te donne une infinité d'attributs. Pourquoi Spinoza ne s'arrête-t-il pas là ? Qu'est-ce que l'infinité d'attributs, à elle seule, ne suffirait pas à établir ?"}
+  ],
+  "reponse": "Parce qu'une infinité d'attributs ne me donne, au mieux, qu'une infinité de genres. Si chaque attribut n'était pas lui-même une essence infinie en son genre, chaque genre pourrait n'engendrer que deux ou trois suites — j'aurais une infinité de tiroirs presque vides. C'est la précision « dont chacun exprime une essence infinie en son genre » qui garantit que chaque tiroir déborde : l'infinité des choses vient du nombre des attributs, l'infinité des modes vient de la fécondité de chacun. Les deux infinités de l'énoncé ont chacune leur source."
+}

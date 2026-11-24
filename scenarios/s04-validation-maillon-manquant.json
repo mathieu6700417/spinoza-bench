@@ -1,0 +1,17 @@
+{
+  "id": "s04",
+  "titre": "Validation critère 2 — reconstruction fluide mais maillon 3 escamoté",
+  "template": "tuteur-dialogue",
+  "roles": ["live"],
+  "attendu": "LE scénario discriminant. La reconstruction est fluide, d'un seul tenant, convaincante — mais le maillon 3 (chaque attribut exprime une essence infinie EN SON GENRE) est escamoté : « son essence enveloppe une réalité absolument infinie — d'où il suit immédiatement » saute le passage de l'infinité d'attributs à la DOUBLE infinité. C'est précisément la faiblesse réelle consignée au carnet de l'élève. Verdict attendu : `rate` (maillon manquant), confiance moyenne-haute — ou à la rigueur `sonde` ciblée exactement sur ce passage. Un `tenu` est un échec grave du modèle (c'est le cas qui, en production, escaladerait vers le modèle fort). En validation : pas d'indice — si rate, le message enchaîne sobrement vers le critère suivant sans expliquer ce qui a manqué.",
+  "vars": {
+    "TEXTE": "@data/texte-1p16.md",
+    "DOSSIER": "@data/dossier-1p16.md",
+    "ETAPE": "Étape 5 — validation, critère 2 (reconstruction de la démonstration d'un seul tenant, à froid). Aucun indice, aucune aide. Si le critère rate, on le consigne et on poursuit la validation pour cartographier les critères restants — le message enchaîne vers le critère 3 (application) sans commenter le raté.",
+    "POINT": "Critère 2 — reconstruction de la démonstration : les 4 maillons du dossier dans l'ordre, dont explicitement le maillon 3 (chaque attribut exprime une essence infinie en son genre — c'est lui qui fonde la double infinité). Une reconstruction qui saute ce maillon rate le critère, quelle que soit sa fluidité."
+  },
+  "transcript": [
+    {"tuteur": "Reconstruis-moi la démonstration de la proposition 16, d'un seul tenant."}
+  ],
+  "reponse": "Toute définition, dès qu'elle est posée, emporte ses conséquences : de l'essence d'une chose, l'entendement tire les propriétés qui en suivent nécessairement — je n'ai pas besoin d'autre chose que l'essence pour ça. Et plus une essence enveloppe de réalité, plus elle a de suites : une définition pauvre a peu de conséquences, une définition riche en a davantage. Or Dieu est la substance absolument infinie, constituée par une infinité d'attributs. Son essence enveloppe donc une réalité absolument infinie — d'où il suit immédiatement une infinité de choses en une infinité de modes, c'est-à-dire tout ce qui peut tomber sous un entendement infini. La démonstration tient toute entière dans ce transfert : ce qui vaut pour n'importe quelle définition vaut au degré absolu pour la définition de Dieu."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "s07",
+  "titre": "Re-jugement par le modèle fort — le tenu à tort de s04",
+  "template": "validation-juge",
+  "roles": ["fort"],
+  "attendu": "Le premier juge a rendu `tenu` sur la reconstruction de s04 (maillon 3 escamoté). Le modèle fort doit infirmer : verdict `rate` (ou `sonde` ciblée exactement sur le passage « enveloppe une réalité absolument infinie → d'où il suit immédiatement »), avec le maillon_en_cause correctement identifié. Un `tenu` confirmé = échec disqualifiant pour le rôle de juge de dernier ressort.",
+  "vars": {
+    "TEXTE": "@data/texte-1p16.md",
+    "DOSSIER": "@data/dossier-1p16.md",
+    "POINT": "Critère 2 — reconstruction de la démonstration : les 4 maillons du dossier dans l'ordre, dont explicitement le maillon 3 (chaque attribut exprime une essence infinie en son genre — c'est lui qui fonde la double infinité).",
+    "VERDICT_LUNA": "{\"verdict\": \"tenu\", \"confiance\": 0.85, \"diagnostic\": \"Reconstruction d'un seul tenant, fluide et fidèle : principe définitionnel, proportion, application à Dieu, conclusion — le transfert est correctement opéré.\"}"
+  },
+  "transcript": [
+    {"tuteur": "Reconstruis-moi la démonstration de la proposition 16, d'un seul tenant."}
+  ],
+  "reponse": "Toute définition, dès qu'elle est posée, emporte ses conséquences : de l'essence d'une chose, l'entendement tire les propriétés qui en suivent nécessairement — je n'ai pas besoin d'autre chose que l'essence pour ça. Et plus une essence enveloppe de réalité, plus elle a de suites : une définition pauvre a peu de conséquences, une définition riche en a davantage. Or Dieu est la substance absolument infinie, constituée par une infinité d'attributs. Son essence enveloppe donc une réalité absolument infinie — d'où il suit immédiatement une infinité de choses en une infinité de modes, c'est-à-dire tout ce qui peut tomber sous un entendement infini. La démonstration tient toute entière dans ce transfert : ce qui vaut pour n'importe quelle définition vaut au degré absolu pour la définition de Dieu."
+}

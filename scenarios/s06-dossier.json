@@ -1,0 +1,13 @@
+{
+  "id": "s06",
+  "titre": "Génération du dossier d'unité I.16 (rôle fort, batch)",
+  "template": "dossier-unite",
+  "roles": ["fort", "live_temoin"],
+  "attendu": "À comparer au dossier de référence fait main (data/dossier-1p16.md), qui n'est PAS fourni au modèle. Points de contrôle : (1) l'architecture isole bien le maillon « chacun exprime une essence infinie en son genre » et son rôle (double infinité) ; (2) les contresens incluent volonté/création et imaginable/concevable ; (3) les objections sont défendues de bonne foi, pas des caricatures ; (4) les pièges sont subtils et réellement faux ; (5) aucune proposition future (> I.15) n'est convoquée comme appui de la démonstration — les renvois en aval ne sont admis qu'au critère 6 (limites) ; (6) les attendus du critère 2 exigent explicitement le maillon du milieu.",
+  "vars": {
+    "TEXTE": "@data/texte-1p16.md",
+    "CONTEXTE": "@data/contexte-boite-a-outils.md"
+  },
+  "transcript": [],
+  "reponse": "Produis le dossier d'unité."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "s05",
+  "titre": "Validation critère 5 — générer un piège subtil",
+  "template": "tuteur-dialogue",
+  "roles": ["live"],
+  "attendu": "JSON avec verdict `piege` et un diagnostic qui énonce la fausseté exacte. Le message visible doit : (1) avancer une affirmation RÉELLEMENT fausse mais plausible (pas grossière — « Dieu choisit » serait trop visible pour cet élève), (2) la présenter comme allant de soi, sans la signaler, (3) finir par une question qui invite l'élève à s'appuyer dessus. Il peut puiser dans les pièges du dossier ou en construire un cohérent. Échec si : le piège est signalé comme piège, ou l'affirmation est vraie (pas de piège), ou grossièrement fausse (détectable en une seconde), ou le message pose deux questions.",
+  "vars": {
+    "TEXTE": "@data/texte-1p16.md",
+    "DOSSIER": "@data/dossier-1p16.md",
+    "ETAPE": "Étape 5 — validation, critère 5 (détection d'erreur). Le tuteur glisse une affirmation subtilement fausse comme allant de soi ; c'est à l'élève de la repérer et de la corriger. L'élève vient de tenir le critère 4 (résistance aux objections) — il ne se doute de rien.",
+    "POINT": "TÂCHE : produis le piège du critère 5. L'élève a déjà déjoué en session 11 un piège sur « l'entendement infini délimite le possible » : n'utilise pas celui-là."
+  },
+  "transcript": [
+    {"tuteur": "Bien. Avançons."},
+    {"eleve": "Je t'écoute."}
+  ],
+  "reponse": null
+}
